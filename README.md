@@ -85,6 +85,7 @@
 /><br><br>
 </div>
 
+##
 
 <div align="center">
   <samp>
@@ -100,5 +101,7 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/solonthiago/)
   
 </div>
+
+##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
