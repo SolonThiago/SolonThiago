@@ -1,11 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A5BDD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6fa3fa&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Solon+Thiago;I'm+38+years+old;I'm+from+Brazil;Software+Engineer+|+Systems+Development+Student;and+Data+Scientist+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)<br><br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B1C4D8&size=38&center=true&vCenter=true&width=1200&speed=60&pause=2000&lines=Olá,+Meu+nome+é+Solon+Thiago;Tenho+39+anos+de+idade;e+mais+de+10+anos+de+experiência+com+tecnologias;Sou+de+Cajazeiras+-+PB+/+Brasil;Sou+formado+em+Engenharia+de+Software;Sou+estudante+de+Desenvolvimento+de+Sistemas;e+Ciência+de+Dados;Sejam+bem+vindos,+ao+meu+GitHub!+🚀)](https://git.io/typing-svg)
+<br><br><br>
 
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Mais Informações</b>
       </samp>
   </summary>
   
@@ -32,54 +33,82 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolonThiago&theme=tokyonight"
   /><br><br><br>
 
-  <div align="center"><p>🤖 Linguagens e Tecnologias</p><br>
+  <div align="center"><h2>🤖 Linguagens e Tecnologias</h2><br>
 
 <img 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
+    alt="HTML5"
+    title="HTML5" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
+    alt="CSS3" 
+    title="CSS3"
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    alt="React"
+    title="React" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    alt="Next.js"
+    title="Next.js" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
     alt="PostgreSQL" 
     title="PostgreSQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
+    alt="MySQL" 
+    title="MySQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 /><br><br>
@@ -89,9 +118,9 @@
 
 <div align="center">
   <samp>
-    <b>
-      Contact me:
-    </b>
+    <h2>
+      Entre em contato comigo:
+    </h2>
   </samp>
   <br>
   <br>
@@ -104,4 +133,4 @@
 
 ##
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A5BDD&height=100&section=footer"/>
