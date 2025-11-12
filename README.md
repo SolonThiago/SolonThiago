@@ -125,9 +125,16 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:solonthiagogmdev@gmail.com){:target="_blank"}
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5581994693669){:target="_blank"}
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/solonthiago/){:target="_blank"}
+  <a href="mailto:solonthiagogm.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/5581994693669" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/solonthiago/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
+  </a>
+
 
   
 </div>
