@@ -125,16 +125,17 @@
   <br>
   <br>
 
-  <a href="mailto:solonthiagogm.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" />
+ <p align="center">
+  <a href="mailto:solonthiagogm.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail">
   </a>
-  <a href="https://wa.me/5581994693669" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff" alt="WhatsApp" />
+  <a href="https://wa.me/5581994693669" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff" alt="WhatsApp">
   </a>
-  <a href="https://www.linkedin.com/in/solonthiago/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/solonthiago/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn">
   </a>
-
+</p>
 
   
 </div>
