@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A5BDD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B1C4D8&size=38&center=true&vCenter=true&width=1200&speed=60&pause=2000&lines=Olá,+Meu+nome+é+Solon+Thiago;Tenho+39+anos+de+idade;e+mais+de+10+anos+de+experiência+com+tecnologias;Sou+de+Cajazeiras+-+PB+/+Brasil;Sou+formado+em+Engenharia+de+Software;Sou+estudante+de+Desenvolvimento+de+Sistemas;e+Ciência+de+Dados;Sejam+bem+vindos,+ao+meu+GitHub!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B1C4D8&size=38&center=true&vCenter=true&width=1200&speed=60&pause=2000&lines=Olá,+Meu+nome+é+Solon+Thiago;possuo+mais+de+6+anos+de+experiência+com+tecnologias;Sou+formado+em+Engenharia+de+Software;Sou+estudante+de+React,;Back-end+Python+e+Ciência+de+Dados;Sejam+bem+vindos,+ao+meu+GitHub!+🚀)](https://git.io/typing-svg)
 <br><br><br>
 
 <details align="center">  
